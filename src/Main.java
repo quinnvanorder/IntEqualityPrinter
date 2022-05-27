@@ -7,6 +7,6 @@ Otherwise print "Neither all are equal or different"
  */
 public class Main {
     public static void main(String[] args) {
-
+        IntEqualityPrinter.printEqual(1,2,3);
     }
 }
